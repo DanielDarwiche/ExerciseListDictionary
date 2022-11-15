@@ -65,7 +65,7 @@ namespace ExerciseListDictionary
             //        }
 
             //    } while (inre);
-
+             
             //} while (yttreloop);
             Dictionary<int, Country> CountryD = new Dictionary<int, Country>();
             CountryD.Add(Sweden.Code, Sweden);
